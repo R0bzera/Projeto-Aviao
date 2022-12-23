@@ -63,6 +63,6 @@ export async function inquirerMenu() {
     case '5':
       funcoes.pousar();
     case '6':
-    default: console.log ("vc saiu")
+    default: console.log ("vc saiu.")
     
   }}

@@ -37,7 +37,7 @@ export const funcoes = {
           });
           if (presente) {
             mensagemDeErro(
-              "Não foi possivel embarcar pois, o cpf ja está cadastrado"
+              "Não foi possivel embarcar, o cpf ja está cadastrado"
             );
             return;
           }
