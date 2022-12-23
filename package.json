@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "scripts": {
+    "dev": "node menu.js"
+  },
+
+  "type": "module"  
+}
